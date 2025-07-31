@@ -44,7 +44,7 @@ The model is compiled with `sparse_categorical_crossentropy` loss function and o
 ## Structure
 
 - **model.py**  
-  Trains the CNN model on MNIST dataset, normalizes images to [-1, 1], and saves the trained model as `model.keras`.
+  Trains the CNN model on MNIST dataset and saves the trained model as `model.keras`.
 
 - **main.py**  
   Implements a Tkinter GUI allowing the user to draw digits on a canvas.  
