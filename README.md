@@ -72,4 +72,17 @@ The model is compiled with `sparse_categorical_crossentropy` loss function and o
 4. **Prediction:**  
    The processed image is passed to the trained CNN model, which outputs probabilities for each digit class (0-9). The digit with the highest probability is displayed.
 
+---
 
+## Demo
+
+<img width="302" height="332" alt="Screenshot 2025-07-31 212251" src="https://github.com/user-attachments/assets/e1b20a85-e880-4384-85fc-1d42f5c19cac" />
+<img width="302" height="332" alt="image" src="https://github.com/user-attachments/assets/e1cab44b-5e6a-48a0-86dc-628241d00b11" />
+
+---
+
+## Clone this repository
+
+```bash
+git clone https://github.com/MyTNinja/handwritten-digit-recognition-gui.git
+cd handwritten-digit-recognition-gui
